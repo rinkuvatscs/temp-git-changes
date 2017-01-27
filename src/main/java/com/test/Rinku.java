@@ -7,4 +7,9 @@ public class Rinku {
 
         System.out.println("Testing Merge");
     }
+    
+
+    public void test4() {
+
+    }
 }
